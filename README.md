@@ -1,2 +1,3 @@
 # powder-convoy-native-app
-powder convoy native app
+Wip on the powder convoy native app
+https://powderconvoy.com/
